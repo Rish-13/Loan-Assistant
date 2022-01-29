@@ -1,2 +1,2 @@
-# Loan-Assitant
+# Loan-Assistant
 Suven Task 1
